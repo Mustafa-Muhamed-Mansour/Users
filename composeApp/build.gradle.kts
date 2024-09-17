@@ -47,11 +47,9 @@ kotlin {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
 
-
             // Ktor to get data from network (api)
             implementation(libs.ktor.client.android)
             implementation(libs.ktor.client.okhttp)
-
 
             // -----> Start a lifecycle <----- //
             // ViewModel
