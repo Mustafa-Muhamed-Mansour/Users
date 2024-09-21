@@ -8,9 +8,10 @@ fun initKoin(config: KoinAppDeclaration? = null) {
     startKoin {
         config?.invoke(this)
         modules(
-            homeRepositoryModule,
+            homeRepositoryImlModule,
             homeViewModelModule,
-            networkModule
+            networkModule,
+            useCaseModule
         )
     }
 }

@@ -1,6 +1,6 @@
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
-import com.app.repository.HomeRepository
+import com.data.repository.HomeRepositoryIml
 import dev.icerock.moko.mvvm.viewmodel.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -8,10 +8,12 @@ import kotlinx.coroutines.launch
 import org.koin.core.component.KoinComponent
 import com.app.utils.MainState
 import com.app.utils.Resource
+import com.domain.usecase.HomeUsers
 
 
 class HomeViewModel(
-    private val homeRepository: HomeRepository
+    private val homeUsers: HomeUsers
+//    private val homeRepositoryIml: HomeRepositoryIml
 ) : ViewModel(), KoinComponent {
 
     private val _listUsers: MutableState<MainState> = mutableStateOf(MainState())
@@ -27,7 +29,7 @@ class HomeViewModel(
     fun fetchUsers() {
         viewModelScope.launch {
             try {
-                when (val products = homeRepository.fetchUsers()) {
+                when (val products = homeUsers.fetchUsers()) {
                     is Resource.Error -> {
                         _listUsers.value = MainState(error = "Something went wrong")
                     }

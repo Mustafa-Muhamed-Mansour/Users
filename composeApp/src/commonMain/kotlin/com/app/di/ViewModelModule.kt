@@ -4,5 +4,5 @@ import HomeViewModel
 import org.koin.dsl.module
 
 val homeViewModelModule = module {
-    single { HomeViewModel(homeRepository = get() )}
+    single { HomeViewModel(homeUsers = get() )}
 }
