@@ -16,8 +16,8 @@ Are a collection of users contains of name, image, type of gender, email's user,
 <img src = "https://github.com/user-attachments/assets/82bfe022-aadf-4fed-9c0b-b095a5f3f129" width = "200" height = "400">  
 
 ## 🖥️Desktop
-<img src = "https://github.com/user-attachments/assets/9f2c7dfa-79b3-4c1c-863d-618babae5582" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/3be3f18b-fd92-4487-af83-f17e6d2aeb18" width = "800" height = "600">
-<img src = "https://github.com/user-attachments/assets/57d65450-ac52-470a-882d-6e16e8b9ef13" width = "800" height = "600">  
+<img src = "https://github.com/user-attachments/assets/badb1e67-8b9e-4afc-870d-f5639e9445cc" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/08984326-7cfe-432e-b1b8-c8b94412a6a4" width = "800" height = "600">
+<img src = "https://github.com/user-attachments/assets/aa94d09a-d048-4c80-90fd-a6fd5b6a6ba9" width = "800" height = "600">  
 
 
 # Structure project
