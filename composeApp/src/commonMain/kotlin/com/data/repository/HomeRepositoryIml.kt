@@ -12,19 +12,6 @@ class HomeRepositoryIml(
     private val apiClient: ApiClient
 ): HomeRepository {
 
-    //    private suspend fun httpClint(): UserResponse? {
-//        val response = apiClient.httpClient.get(urlString = BASE_URL)
-//        return response.body()
-//    }
-//
-//    suspend fun fetchUsers(): Resource<UserResponse?> {
-//        return try {
-//            val result = httpClint()
-//            Resource.Success(data = result)
-//        } catch (e: Exception) {
-//            Resource.Error(e.message.toString())
-//        }
-//    }
     override suspend fun httpClint(): UserResponse? {
         val response = apiClient.httpClient.get(urlString = BASE_URL)
         return response.body()

@@ -13,7 +13,6 @@ import com.domain.usecase.HomeUsers
 
 class HomeViewModel(
     private val homeUsers: HomeUsers
-//    private val homeRepositoryIml: HomeRepositoryIml
 ) : ViewModel(), KoinComponent {
 
     private val _listUsers: MutableState<MainState> = mutableStateOf(MainState())
