@@ -12,8 +12,8 @@ Are a collection of users contains of name, image, type of gender, email's user,
 # 📸Screenshots
 
 ## 📱Mobile
-<img src = "https://github.com/user-attachments/assets/58013d31-e71f-4fe8-beba-5a6534d64509" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/7fe156f1-b6cf-41c7-85af-c1ecd689f266" width = "200" height = "400">
-<img src = "https://github.com/user-attachments/assets/82bfe022-aadf-4fed-9c0b-b095a5f3f129" width = "200" height = "400">  
+<img src = "https://github.com/user-attachments/assets/42203047-8f7f-4990-8244-80ceac596b75" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/5806f3af-2e1a-407d-8862-4025b6f8ee89" width = "200" height = "400">
+<img src = "https://github.com/user-attachments/assets/140f170b-f1b4-41cf-8219-4812195ae9ba" width = "200" height = "400">  
 
 ## 🖥️Desktop
 <img src = "https://github.com/user-attachments/assets/badb1e67-8b9e-4afc-870d-f5639e9445cc" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/08984326-7cfe-432e-b1b8-c8b94412a6a4" width = "800" height = "600">
