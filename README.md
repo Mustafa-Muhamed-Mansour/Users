@@ -26,7 +26,7 @@ Are a collection of users contains of name, image, type of gender, email's user,
 <img src = "https://github.com/user-attachments/assets/ed2cef85-acf0-4b20-9d56-d4e12a088fdb" width = "700" height = "600">
 
 ## (🫡MVVM with clean architecture)
-<img src = "https://github.com/user-attachments/assets/162c03ae-5294-4372-801e-31d9d0aa98b5" width = "900" height = "600">
+<img src = "https://github.com/user-attachments/assets/162c03ae-5294-4372-801e-31d9d0aa98b5" width = "800" height = "900">
 
 
 # 🧑🏾‍💻Build with
