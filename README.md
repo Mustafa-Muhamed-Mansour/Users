@@ -57,5 +57,5 @@ To run the application on android device/emulator:
    Run android simulator UI tests: `./gradlew :composeApp:pixel5Check`
 
       ### Desktop
-   Run the desktop application: `./gradlew :composeApp:run`
-   Run desktop UI tests: `./gradlew :composeApp:jvmTest`
+  - Run the desktop application: `./gradlew :composeApp:run`
+  - Run desktop UI tests: `./gradlew :composeApp:jvmTest`
