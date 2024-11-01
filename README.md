@@ -3,7 +3,7 @@
 2. [Screenshots](#screenshots)
 3. [Structure Project](#structure-project)
 4. [Build With](#build-with)
-5. [Before Running](before-running)
+5. [Before Running](#before-running)
 
 # 🧑Users
 
@@ -42,8 +42,9 @@ Are a collection of users contains of name, image, type of gender, email's user,
 
 
 
-# 🤌Before Running
+# 🤌Before running
 
+## before running!
  - install JDK 17 or higher on your machine
  - add `local.properties` file to the project root and set a path to Android SDK there
 
