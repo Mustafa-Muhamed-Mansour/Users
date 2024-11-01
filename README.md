@@ -3,7 +3,7 @@
 2. [Screenshots](#screenshots)
 3. [Structure Project](#structure-project)
 4. [Build With](#build-with)
-5. [Before Running](before)
+5. [Before Running](before-running)
 
 # 🧑Users
 
@@ -40,7 +40,7 @@ Are a collection of users contains of name, image, type of gender, email's user,
 * [ImageLoader](https://github.com/qdsfdhvh/compose-imageloader) - will reload when it's displayed.
 * [Ktor](https://github.com/ktorio/ktor) - to get data from the network (API) instead of retrofit. (to make HTTP requests)
 
-# Before
+# 🤌Before Running
 
 ## Before running!
  - install JDK 17 or higher on your machine
