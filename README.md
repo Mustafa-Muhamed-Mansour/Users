@@ -44,7 +44,6 @@ Are a collection of users contains of name, image, type of gender, email's user,
 
 # 🤌Before running
 
-## before running!
  - install JDK 17 or higher on your machine
  - add `local.properties` file to the project root and set a path to Android SDK there
 
