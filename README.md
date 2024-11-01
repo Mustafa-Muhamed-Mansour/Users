@@ -33,11 +33,11 @@ Are a collection of users contains of name, image, type of gender, email's user,
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose) - is Android’s modern toolkit for building native UI.
 * [Koin](https://insert-koin.io/docs/quickstart/android/) - is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
-* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
+* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more.
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
 * [Voyager](https://voyager.adriel.cafe/) - To solve the problem of duplicate navigation code in our Android and iOS projects by providing a shared navigation module.
 * [ImageLoader](https://github.com/qdsfdhvh/compose-imageloader) - will reload when it's displayed.
-* [Ktor](https://github.com/ktorio/ktor) - to get data from the network (API) instead of retrofit.. (to make HTTP requests)
+* [Ktor](https://github.com/ktorio/ktor) - to get data from the network (API) instead of retrofit. (to make HTTP requests)
 
 
 ## Before running!
