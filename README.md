@@ -51,7 +51,7 @@ Are a collection of users contains of name, image, type of gender, email's user,
 To run the application on android device/emulator:  
  - open project in Android Studio and run imported android run configuration
 
-      To build the application bundle:
+      ### To build the application bundle:
  - run `./gradlew :composeApp:assembleDebug`
  - find `.apk` file in `composeApp/build/outputs/apk/debug/composeApp-debug.apk`
    Run android simulator UI tests: `./gradlew :composeApp:pixel5Check`
