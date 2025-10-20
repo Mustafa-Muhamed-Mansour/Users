@@ -30,7 +30,7 @@ Are a collection of users contains of name, image, type of gender, email's user,
 <img src = "https://github.com/user-attachments/assets/162c03ae-5294-4372-801e-31d9d0aa98b5" width = "800" height = "900">
 
 
-# 🧑🏾‍💻Build with
+# Build with
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose) - is Android’s modern toolkit for building native UI.
 * [Koin](https://insert-koin.io/docs/quickstart/android/) - is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
